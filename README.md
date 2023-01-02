@@ -1,5 +1,7 @@
 # Markdown Cheatsheet
 
+[resource](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet)
+
 ## Text format
 | Format        | Symbol    | Sample Code          |
 | ------------- | --------- | -------------------- |
